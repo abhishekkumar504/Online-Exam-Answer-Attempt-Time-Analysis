@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+gradio
+seaborn
